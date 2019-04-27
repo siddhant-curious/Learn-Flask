@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a82b674d67d29678775ff6b773de1686a9593749ec14483b0d8e05131b662286"
+            "sha256": "2f98886cecbc9208332124a8be8197367299f930533bf68678c068fa82ac199d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +30,10 @@
             ],
             "index": "pypi",
             "version": "==1.0.2"
+        },
+        "flaskr": {
+            "editable": true,
+            "path": "."
         },
         "itsdangerous": {
             "hashes": [
